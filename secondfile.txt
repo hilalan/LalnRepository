@@ -1,6 +1,6 @@
-Hello 
+To create a branch and switch to it at the same time, 
+you can run the git checkout command with the -b switch: $ 
+git checkout -b iss53 Switched to a new branch ...
 
+---------
 
-lalan
-
-singh
